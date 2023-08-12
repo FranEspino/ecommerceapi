@@ -6,3 +6,5 @@
 
 localhost:7070/api/user/{endpoint}
 
+Ver IP: ipconfig
+
